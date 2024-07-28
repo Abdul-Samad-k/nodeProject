@@ -16,3 +16,5 @@ if(config.env=="qa"|| config.env=="prod")
 {
     console.log("this is for qa and prod")
 }
+
+console.log("abdul samad")
